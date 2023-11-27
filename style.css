@@ -2,7 +2,7 @@
 
 .navbar {
     padding: 2rem;
-    background-color: #0c90fc;
+    background-color: rgb(13, 110, 253)
   }
   
   .navbar-collapse {
@@ -25,7 +25,7 @@
   }
   
   .seccion-oscura {
-    color: white;
+    color: rgba(255, 255, 255, 0.505);
     background-color: #171718;
   }
   
@@ -65,7 +65,7 @@
   /* Seccion Hero */
   
   .hero {
-    background-color: #faf1f1;
+    background-color: white;
     min-height: 450px;
     text-align: center;
   }
